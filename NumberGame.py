@@ -12,8 +12,8 @@ def number_guessing_game():
             guess = int(input("Enter your guess: "))
             attempts += 1
 
-            if guess < 1 or guess > 100:
-                print("Please guess a number between 1 and 100.")
+            if guess < 1 or guess > 1000:
+                print("Please guess a number between 1 and 1000.")
             elif guess < secret_number:
                 print("Too low! Try again.")
             elif guess > secret_number:

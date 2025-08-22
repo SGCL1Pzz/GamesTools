@@ -1,0 +1,4 @@
+#variables
+
+1 = "Dont Let Yesterday Take Up Your Today"
+print(1)

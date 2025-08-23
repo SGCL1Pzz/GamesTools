@@ -1,3 +1,3 @@
 
-quote_one = "Dont Let Yesterday Take Up Your Today"
+quote_one = "Love YourSelf For Who You Are"
 print(quote_one)

@@ -1,0 +1,6 @@
+print(f'hi i am Testingcode')
+print(f'How can I help you today?')
+print(f'If you have any worries or concerns, feel free to share them with me.')
+print(f'so what is your name?')
+user_input = input('You: ')
+print(f'Hello there! {user_input} How are you doing today?')
